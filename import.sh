@@ -1,0 +1,1 @@
+bash ./imports/format.sh && bash ./imports/extract_terms.sh
